@@ -18,7 +18,7 @@ $$j_\text{mag} = B^2 \cos^2(\phi)$$
 
 The next term contributing to density is a coupling term. We compute the average orientation $\phi_\text{avg}$ of neighbors and proceed to compute the following density,
 
-$$j_\text{neigh} = - K \cos^2(\phi - \phi_\text{avg}$$
+$$j_\text{neigh} = - K \cos^2(\phi - \phi_\text{avg})$$
 
 As molecules want to align with neighbors. K is just a coupling constant. Finally, computing E is done by summing all densities,
 
